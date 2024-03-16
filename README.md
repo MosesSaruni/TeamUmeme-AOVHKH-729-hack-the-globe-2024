@@ -37,7 +37,7 @@ The Pest Prediction System is a web application designed to predict pest infesta
 1. Run the Flask application
 - flask run
 
-2. Open your web browser and go to (http://localhost:5000) to access the application.
+2. Open your web browser and go to ([http://127.:5000](http://127.0.0.1:5000)) to access the application.
 
 3. Input weather data and submit to get pest infestation predictions.
 
